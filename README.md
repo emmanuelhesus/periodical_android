@@ -1,6 +1,6 @@
 # Periodical
 ![first](https://user-images.githubusercontent.com/109476616/179425374-82d992cd-9162-4a5c-9eda-104d1635d26f.jpg)
- A app that can track your menstruation and calculate possible fertile days
+ A app that can track your menstruation and calculate possible fertile days also allows you to take notes and document symptoms
 ## Test Header
 test word
 ### Bigger Header test
