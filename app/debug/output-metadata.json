@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "de.com.android.periodical",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 91,
+      "versionName": "1.67",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
