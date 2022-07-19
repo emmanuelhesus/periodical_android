@@ -13,12 +13,12 @@ once granted the app would use this privilage to write for personalize notes and
 
 ## Features
 ### 1. Create Calendar Entry 
-- Tells you when you're fertile or infertiile. Click any Day to mark when your period starts. you can always change the length of the period at settings (preference option).
+- Tells you when you're fertile or infertile. Click any Day to mark when your period starts. you can always change the length of the period at settings (preference option).
 for example your period starts at july 10 and August 18 so you touch and marked it at the app then it'll show you these colors such as Red, Blue, and Yellow where Red means the Days of your period, Blue means Fertile days and Yellow means Infertile days (See the Help option for further information)
 ![month](https://user-images.githubusercontent.com/109476616/179795122-6c792f97-e1be-487c-8c65-9016ea727754.jpg)
 
 ### 2. Create/Update Details
-- Helps you Add or Updates the details of any clicked days. Click any Day to add or update details. for example i clicked july 13 which a window pops saying should i delete a period mark but for now we ain't deleting something so right now we click the "create/update details" button then it redirects you to a Details area. here you can modify the day if you had a period or not or change the intensity of your period and add a note or simply check the circles for events, mood, and symptoms but for now let's fill up the mood instead (see image below)
+- Helps you Add or Updates the details of any clicked days. Click any Day to add or update details. for example i clicked july 13 which a window pops up saying should i delete a period mark but for now we ain't deleting something so right now we click the "create/update details" button then it redirects you to a Details area. here you can modify the day if you had a period or not or change the intensity of your period and add a note or simply check the circles for events, mood, and symptoms but for now let's fill up the mood instead (see image below)
 ![create update](https://user-images.githubusercontent.com/109476616/179805367-fa3f00fb-5db9-47c4-8442-cebd960e6b4a.png)
 
 ### 3. Period History
