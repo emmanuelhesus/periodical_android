@@ -22,7 +22,7 @@ for example your period starts at july 10 and August 18 so you touch and marked 
 ![create update](https://user-images.githubusercontent.com/109476616/179805367-fa3f00fb-5db9-47c4-8442-cebd960e6b4a.png)
 
 ### 3. Period History
-- Tells you all when each period starts and tells you what is your last cycle. basically reveals all the days you clicked to mark a Period, as seen here where i clicked july 10 and aug 18 earlier for demonstration. also acts as an Auto-search when you click one of the list it'll redirect you to that specific day or month.
+- Tells you when each period starts and tells you what is your last cycle. basically reveals all the days you clicked to mark a Period, as seen here where i clicked july 10 and aug 18 earlier for demonstration. also acts as an Auto-search when you click one of the list it'll redirect you to that specific day or month.
 ![histo](https://user-images.githubusercontent.com/109476616/179816048-fc327f08-bc38-456b-b5c6-25507c2a4f53.png)
 
 ### 4. Report
@@ -42,7 +42,7 @@ for example your period starts at july 10 and August 18 so you touch and marked 
 ![note](https://user-images.githubusercontent.com/109476616/179831218-cef4d88c-35bf-46c3-a0e9-3c5e6afd006c.png)
 
 ## Demo Video
--Watch it here
+Watch it here
 
 ## Dev Team
 - Emmanuel Hesus Villanueva
@@ -51,7 +51,7 @@ for example your period starts at july 10 and August 18 so you touch and marked 
 - Kimberly Giron
 
 ## Adviser
-- Jefferson A. Costales
+Jefferson A. Costales
 
 ## School
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
