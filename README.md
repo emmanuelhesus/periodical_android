@@ -7,7 +7,7 @@ once granted the app would use this privilage to write for personalize notes and
 ![perio 1](https://user-images.githubusercontent.com/109476616/179797822-9dc66200-8bcf-437d-aedb-f68e546e07b7.png)
 
 ## Requirements
-*   Android Studio Chipmunks version or above (installed on a Mac, Linux, or Windows machine)
+*   Android Studio Chipmunk version or above (installed on a Mac, Linux, or Windows machine)
 *   Android device in developer mode (see [here](https://developer.android.com/studio/debug/dev-options) for reference) with USB debugging enabled
 *   USB cable (to connect Android device to your computer) and change the USB configuration from "Charging only" to Media transfer protocol or known as MTP at your Android device
 * Minimal SDK version requirement is 26 (8.0 Oreo) keep this in mind before using Emulator or a physical Android device
@@ -27,15 +27,15 @@ for example your period starts at july 10 and August 18 so you touch and marked 
 ![histo](https://user-images.githubusercontent.com/109476616/179816048-fc327f08-bc38-456b-b5c6-25507c2a4f53.png)
 
 ### 4. Report
-- almost similar to Period History but tells you all the details you inputted instead. as seen here where i add details earlier at July 13 for the mood such as Tired, Sad, Grumpiness, and being Edgy (This can further expand depends the amount of detail you put)
+- almost similar to Period History but tells you all the details you inputted instead. as seen here where i add details earlier at July 13 for the mood such as Tired, Sad, Grumpiness, and being Edgy (This can further expand depends at the amount of detail you put)
 ![repo](https://user-images.githubusercontent.com/109476616/179816087-876c8080-578b-489b-ac48-69019769803b.png)
 
 ### 5. Backup
-- Saves all the data such as the Calendar entries, the Details,, History and Report in your phone incase you accidently cleared the data of the app (See the Demo video for instructions and further informations)
+- Saves all the data such as the Calendar entries, the Details,, History and Report in your phone incase you accidently cleared the data of the app (See the Demo video for instructions and for further info)
 ![backup](https://user-images.githubusercontent.com/109476616/179825848-8960008f-4b73-425f-a321-801171b620a2.png)
 
 ### 6. Restore
-- like the name suggests, restores data by finding the folder where you put the backup folder and file (again, see the Demo video for instructions and further informations)
+- like the name suggests, restores data by finding the folder where you put the backup folder with a file inside it (again, see the Demo video for instructions and for further info)
 ![restore](https://user-images.githubusercontent.com/109476616/179828742-b2a4eb2a-7d6e-4430-875b-d149986112cb.png)
 
 ### 7. Custom Note
