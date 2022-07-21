@@ -10,6 +10,7 @@ once granted the app would use this privilage to write for personalize notes and
 *   Android Studio Chipmunks version or above (installed on a Mac, Linux, or Windows machine)
 *   Android device in developer mode (see [here](https://developer.android.com/studio/debug/dev-options) for reference) with USB debugging enabled
 *   USB cable (to connect Android device to your computer) and change the USB configuration from "Charging only" to Media transfer protocol or known as MTP at your Android device
+* Minimal SDK version requirement is 26 (8.0 Oreo) keep this in mind before using Emulator or a physical Android device
 
 ## Features
 ### 1. Create Calendar Entry 
